@@ -1,0 +1,4 @@
+<launch>
+  <!-- Launch the follower node -->
+  <node name="follower" pkg="follow_bot" type="follower" output="screen"/>
+</launch>
